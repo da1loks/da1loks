@@ -14,6 +14,30 @@ Currently diving deeper into **ML**. More at [**da1loks.ru**](https://da1loks.ru
 
 </div>
 
+---
+
+## What I'm building
+
+### [Lecturial](https://github.com/da1loks/Lecturial)
+
+An unofficial Android app for the Sirius University timetable, with offline access, a home screen widget and class notifications.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-183D2B?style=flat-square&logo=android&logoColor=3DDC84)
+
+### [SmartSurface](https://github.com/da1loks/SmartSurface)
+
+A mobile robotics project exploring wall inspection, defect detection and automated finishing, with a browser control panel.
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B5CF6?style=flat-square)
+
+---
+
+
 ### Tech stack
 
 **Coding**
