@@ -14,8 +14,6 @@ Currently diving deeper into **ML**. More at [**da1loks.ru**](https://da1loks.ru
 
 </div>
 
----
-
 ## What I'm building
 
 ### [Lecturial](https://github.com/da1loks/Lecturial)
